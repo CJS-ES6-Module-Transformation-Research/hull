@@ -102149,6 +102149,5 @@ const owl102k = [[129,127],
 [463,975],
 [462,976]];
 
-if (typeof module !== 'undefined') {
-    module.exports = owl102k;
-}
+     module.exports = owl102k;
+ 

@@ -13184,6 +13184,5 @@ const horse13k = [[135,141],
 [958,272],
 [959,277]];
 
-if (typeof module !== 'undefined') {
-    module.exports = horse13k;
-}
+     module.exports = horse13k;
+ 

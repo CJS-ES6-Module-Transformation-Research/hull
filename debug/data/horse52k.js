@@ -52741,6 +52741,5 @@ const horse52k = [[139,140],
 [960,272],
 [960,277]];
 
-if (typeof module !== 'undefined') {
-    module.exports = horse52k;
-}
+     module.exports = horse52k;
+ 

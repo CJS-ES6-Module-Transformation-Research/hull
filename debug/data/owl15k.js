@@ -15855,6 +15855,5 @@ const owl15k = [[133,127],
 [459,968],
 [461,972]];
 
-if (typeof module !== 'undefined') {
-    module.exports = owl15k;
-}
+     module.exports = owl15k;
+ 

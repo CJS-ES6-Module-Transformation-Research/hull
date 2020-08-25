@@ -26370,6 +26370,5 @@ const horse26k = [[134,140],
 [959,277],
 [960,277]];
 
-if (typeof module !== 'undefined') {
-    module.exports = horse26k;
-}
+     module.exports = horse26k;
+ 

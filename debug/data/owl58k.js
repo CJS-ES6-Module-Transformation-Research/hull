@@ -58370,6 +58370,5 @@ const owl58k = [[130,127],
 [461,973],
 [463,976]];
 
-if (typeof module !== 'undefined') {
-    module.exports = owl58k;
-}
+     module.exports = owl58k;
+ 

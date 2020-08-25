@@ -30486,6 +30486,5 @@ const owl30k = [[130,131],
 [459,970],
 [460,976]];
 
-if (typeof module !== 'undefined') {
-    module.exports = owl30k;
-}
+     module.exports = owl30k;
+ 
